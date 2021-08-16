@@ -1,0 +1,17 @@
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\bin\Debug\Kütüphane Performans--554.exe
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\bin\Debug\Kütüphane Performans--554.pdb
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\obj\x86\Debug\Kütüphane_Performans__554.Form1.resources
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\obj\x86\Debug\Kütüphane_Performans__554.Properties.Resources.resources
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.csproj.GenerateResource.Cache
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.exe
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.pdb
+C:\Users\bt554\Desktop\Kütüphane Performans--554\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.csprojResolveAssemblyReference.cache
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\bin\Debug\Kütüphane Performans--554.exe
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\bin\Debug\Kütüphane Performans--554.pdb
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.csproj.AssemblyReference.cache
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\obj\x86\Debug\Kütüphane_Performans__554.Form1.resources
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\obj\x86\Debug\Kütüphane_Performans__554.Properties.Resources.resources
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.csproj.GenerateResource.cache
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.csproj.CoreCompileInputs.cache
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.exe
+C:\Users\90530\Desktop\kutuphane\Kütüphane Performans--554\obj\x86\Debug\Kütüphane Performans--554.pdb
